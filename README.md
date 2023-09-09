@@ -1,6 +1,6 @@
 # tic-toe-game
 
-## Start the programme with C++ in console:
+## Start the programme with C++ in console VS:
 <img src = 'esset/pic1.jpg' alt="MyPhoto">
 
 ## After updating 3D with ursina Python:
